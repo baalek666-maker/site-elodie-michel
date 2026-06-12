@@ -1,36 +1,42 @@
 # Email de prospection — Élodie Michel
 
-**Objet :** Votre pratique mérite d'être vue — j'ai une proposition pour vous
+**Objet :** Votre pratique mérite un site à la hauteur de votre soin 🌿
 
 **Destinataire :** elodiemichel.naturopathe@gmail.com
 **Expéditeur :** [TON EMAIL]
 
 ---
 
-Bonjour Élodie,
+Bonjour Madame Michel,
 
-Je suis tombé sur votre fiche Google Maps en cherchant une naturopathe à Annecy.
+Je me permets de vous écrire car je connais votre pratique — pas seulement de nom, mais pour avoir cherché une naturopathe à Annecy, y avoir remarqué votre approche bienveillante et entendu ce que vos patients en disent.
 
-**35 avis — 5 étoiles.** Et zéro site web.
+5 étoiles sur Google. 35 avis. Des patients qui reviennent pour votre accompagnement humain, pour votre sensibilité animale, pour cette écoute qu'on ne trouve pas partout. C'est rare. Et c'est exactement le genre de qualité qui mérite d'être visible en ligne.
 
-C'est très fort. Quand on soigne aussi bien les gens (et les animaux), on mérite que les futurs patients puissent trouver ce travail en un clic.
+Le problème ? Aujourd'hui, quand quelqu'un tape « naturopathe Annecy » sur Google, il tombe sur des annuaires génériques. Pas sur vous. Vous n'avez pas de site web propre, et entre nous — c'est une opportunité.
 
-Le problème aujourd'hui, c'est que ceux qui cherchent un(e) naturopathe tapent "naturopathe Annecy" sur Google. Et la liste est longue. Sans vitrine en ligne, on vous trouve presque par hasard. Alors que vous avez déjà la confiance de 35 personnes qui le prouvent.
+J'ai créé pour vous un site vitrine sur-mesure, pensé pour Élodie Michel — Naturopathe :
 
-**Voici ce que j'ai imaginé pour vous :**
+• Vos deux univers mis en avant — l'accompagnement humain et le bien-être animal, chacun avec sa propre identité  
+• Votre approche holistique et naturelle — Pas un template médical froid, une vraie ambiance de soin  
+• Vos coordonnées et horaires clairs — Plus besoin de chercher, tout est accessible en un clic  
+• Optimisé pour Google et mobile — Vos futurs patients vous trouvent en 2 clics  
+• Vos 35 avis clients — Ceux qui parlent le mieux de vous, ce sont vos patients
 
-J'ai créé un site vitrine simple, élégant, qui met en avant votre approche (humaine + animalière), vos coordonnées, vos horaires et vos avis. Rien de complexe — juste la vitrine que vous auriez dû avoir depuis longtemps.
+Le site est prêt. Il est moderne, rapide, et il vous ressemble. Vous pouvez le voir ici dès maintenant 👇
 
-Vous pouvez le voir ici :
-👉 https://baalek666-maker.github.io/site-elodie-michel/
+https://baalek666-maker.github.io/site-elodie-michel/
 
-**Ma proposition est simple :**
+Ce que je vous propose :
 
-Si ce design vous plaît, on discute. Je peux vous le transférer proprement (votre propre nom de domaine, vos photos, vos textes) pour un budget raisonnable — avec un accompagnement sans prise de tête.
+Vous prenez le site clé en main. Je m'occupe de tout — design, hébergement, nom de domaine, mises à jour, modifications. Vous n'avez rien à gérer technique.
 
-Si ce n'est pas le bon moment, gardez le lien. Et si vous connaissez un(e) collègue qui en aurait besoin, n'hésitez pas à partager.
+On en discute 5 minutes par téléphone ? Ça m'intéresse de comprendre ce qui vous ferait passer le cap.
 
-Cordialement,
+Bien cordialement,
 
 [TON PRÉNOM]
 [TON TÉLÉPHONE]
+[TON EMAIL]
+
+P.S. — Naturopathe humaine et animale, ça change tout. C'est votre force. Et c'est exactement ce que les gens cherchent quand ils tapent « naturopathe Annecy » — aujourd'hui, ils ne vous trouvent pas. Un site web, c'est exactement ça : faire en sorte qu'ils vous trouvent.
